@@ -49,7 +49,7 @@
     "jshint": "^2.10.2",
     "lint-staged": "^9.4.2",
     "ngrx-store-freeze": "^0.2.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "rxjs": "~6.3.3",
     "shx": "^0.3.2",
     "tslib": "^1.10.0",
